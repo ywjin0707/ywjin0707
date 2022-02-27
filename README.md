@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jin, 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Console&color=%2336BCF7&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+there!+I'm+Jin)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning data science and analytics
 - 📫 You can reach me via: **yw_jin0707@hotmail.com**
