@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning data science and analytics
 - 📫 You can reach me via: **yw_jin0707@hotmail.com**
-- 🛠️ My toolbox: 
+- 🛠️ My toolbox: \n
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
