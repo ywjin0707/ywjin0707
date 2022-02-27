@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Console&color=%2336BCF7&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+there!+I'm+Jin)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning data science and analytics
-- 🛠️ My toolbox: <br />
+### 🛠️ My toolbox: <br />
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> 
@@ -26,13 +26,13 @@
     </a>
   
 - 📫 My email is: **yw_jin0707@hotmail.com**
-- 🦦 Connect with me! <br />
+### 🦦 Connect with me! <br />
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin"
       width="40" height="40" />
-    <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/yw_jin0707" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="40" width="40" /></a>
     
 
 <!--
