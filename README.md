@@ -33,7 +33,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
       alt="linkedin" width="40" height="40" />
   <a href="https://www.github.com/ywjin0707" target="blank"><img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="github" height="40" width="40" /></a>
   <a href="https://www.hackerrank.com/yw_jin0707" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
