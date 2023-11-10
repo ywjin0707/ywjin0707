@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lucida+Console&color=%2336BCF7&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+there!+I'm+Jin)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on a computational gene expression deconvolution model for cell type fraction estimation
+- 🔭 I’m currently a computational biologist within the Wastewater Surveillance Unit at the National Microbiology Laboratory
 - 🌱 I’m currently learning topics data science and analytics
 - ⚡ Fun fact: We should all show love for otters 🦦🦦🦦
   
