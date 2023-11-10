@@ -12,7 +12,7 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="powerbi"
       width="40" height="40" />
-<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer> <img
+<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Automate-Colored.png" alt="powerautomate"
       width="40" height="40" />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
