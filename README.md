@@ -5,31 +5,33 @@
 - ⚡ Fun fact: We should all show love for otters 🦦🦦🦦
   
 ### 🛠️ My toolbox: <br />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"
-      width="40" height="40" /> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"
-      width="40" height="40" /> 
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"
-      width="40" height="40" /> 
-      </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
+
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r"
       width="40" height="40" /> 
-      </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"
       width="40" height="40" /> 
-      </a> </a> <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img
+<!--
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"
+      width="40" height="40" /> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"
+      width="40" height="40" /> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"
+      width="40" height="40" /> 
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery"
       width="40" height="40" /> 
-    </a>
+-->
 ### 📫 Connect with me! <br />
   <a href="mailto:yw_jin0707@hotmail.com:" target="_blank" rel="noreferrer"> <img
-      src="https://img.icons8.com/fluency/344/microsoft-outlook-2019.svg" 
+      src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" 
       alt="email" width="40" height="40" />
   <a href="https://www.linkedin.com/in/ywjin/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" 
@@ -37,10 +39,11 @@
   <a href="https://www.github.com/ywjin0707" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="github" height="40" width="40" /></a>
+<!--
   <a href="https://www.hackerrank.com/yw_jin0707" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="hackerrank" height="40" width="40" /></a>
-
+-->
     
 
 <!--
